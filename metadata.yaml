@@ -1,0 +1,33 @@
+_repo: The-Confidence-Man--His-Masquerade_21816
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: Set on a Mississippi steamer on April Fool's Day and populated by a series
+  of shape-shifting con men, The Confidence-Man is a challenging metaphysical and
+  ethical exploration of antebellum American society.
+gutenberg_issued: '2007-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21816'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Steamboats -- Fiction'
+- !lcsh 'Swindlers and swindling -- Fiction'
+- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'Satire'
+title: 'The Confidence-Man: His Masquerade'
+url: http://www.gutenberg.org/ebooks/21816
